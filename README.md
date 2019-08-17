@@ -10,7 +10,7 @@
 
 <i> npm start </i>
 
-<p> Si un navigateur ne s'ouvre pas automtiquement sur le port 3000, ouvrez un navigateur web à l'adresse : <a href="http://localhost:3000/">localhost:3000</p>
+<p> Si un navigateur ne s'ouvre pas automtiquement sur le port 3000, ouvrez un navigateur web à l'adresse : <a href="http://localhost:3000/">localhost:3000</a></p>
   
 <p> Tout devrait être fonctionnel à partir de là. </p>  
 
